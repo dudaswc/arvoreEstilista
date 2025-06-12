@@ -7,16 +7,16 @@ Este projeto é uma **simulação interativa construída com árvores binárias 
 ## 👗 Como funciona
 
 Cada nó da árvore representa uma decisão importante na jornada da estilista.  
-O(a) usuário(a) interage com a história digitando `'esquerda'` ou `'direita'`, escolhendo entre caminhos mais seguros ou mais ousados.  
+O(a) usuário(a) interage com a história digitando "esquerda" ou "direita", escolhendo entre caminhos mais seguros ou mais ousados.  
 O código utiliza **recursividade** e estrutura de **árvore binária** para navegar pelas escolhas.
 
 ---
 
 ## 🧠 Conceitos abordados
 
-- Árvores binárias (`Node`, `left`, `right`)
+- Árvores binárias (Node, left, right)
 - Recursão
-- Interação com o usuário via terminal (`input()`)
+- Interação com o usuário via terminal (input())
 - Narrativa ramificada (tipo "livro-jogo")
 
 ---
