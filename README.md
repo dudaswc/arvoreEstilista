@@ -21,13 +21,6 @@ O código utiliza **recursividade** e estrutura de **árvore binária** para nav
 
 ---
 
-## 💡 Ideal para
-
-- Estudantes de Python que estão aprendendo árvores binárias de forma mais criativa  
-- Quem deseja aplicar estruturas de dados em contextos sociais e narrativas
-
----
-
 ## 📌 Sugestões futuras
 
 - Adicionar pontuação baseada em ética/carreira  
