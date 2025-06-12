@@ -1,4 +1,4 @@
-🎨 Caminhos de uma Estilista 
+🎨 Caminhos de uma Estilista:
 Este projeto é uma simulação interativa construída com árvores binárias em Python, que representa os desafios enfrentados por uma jovem estilista ao longo da sua carreira. Inspirado em temas como moda, desigualdade de gênero e ética profissional, o jogo conduz o(a) usuário(a) por diferentes decisões que moldam o desfecho da trajetória profissional da personagem.
 
 👗 Como funciona:
